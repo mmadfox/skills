@@ -11,6 +11,8 @@ My personal skills repository for LLM agents
 ### swag2mcp-format
 Response formatting rules for swag2mcp MCP tools. Ensures consistent human-readable markdown, enforces pagination, colorizes HTTP methods, and structures schemas, headers, and errors for all swag2mcp tool responses.
 
+📥 [Download](skills/swag2mcp-format/SKILL.md)
+
 ## 📌 Important: Loading Skills
 
 > All models behave differently. While some models may automatically discover 
