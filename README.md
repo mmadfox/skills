@@ -13,6 +13,11 @@ Response formatting rules for swag2mcp MCP tools. Ensures consistent human-reada
 
 📥 [Download](skills/swag2mcp-format/SKILL.md)
 
+### swag2mcp-cli
+Complete CLI reference for swag2mcp commands, flags, and config. Use when the user asks how to use swag2mcp from the terminal, needs help with a specific command, or wants to understand the configuration file structure.
+
+📥 [Download](skills/swag2mcp-cli/SKILL.md)
+
 ## 📌 Important: Loading Skills
 
 > All models behave differently. While some models may automatically discover 
