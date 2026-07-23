@@ -1,5 +1,5 @@
 ---
-name: godeepmentor
+name: go-mentor
 description: "Elite multi-phase Go mastery system for deep skill elevation. Phase 0 assesses user level and configures language, learning style, and depth preferences. Phase 1 generates adaptive deep-dive questions. Phase 2 conducts a rigorous interactive mastery session with per-answer analysis and 0-5 scoring. Phase 3 delivers exhaustive bottom-up tutoring from silicon through distributed systems, with flexible depth per topic. Phase 4 reinforces knowledge via spaced repetition with real-date scheduling. Features session state persistence, structured checkpoint system, FAANG source validation, offline mode, per-lesson feedback, and built-in analytics for iterative improvement. Designed to transform a developer into a Principal-level Go architect."
 license: MIT
 metadata:
